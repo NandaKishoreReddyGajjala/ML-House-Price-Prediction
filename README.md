@@ -99,7 +99,7 @@ The **Random Forest Regressor** performed better with an **80% R-squared score**
 ## 👨‍💻 Author
 **Nanda Kishore Reddy Gajjala Venkata**
 
-GitHub: [nandakishorereddygv](https://github.com/NandaKishoreReddyGajjala)
+GitHub: [Nanda Kishore Reddy Gajjala](https://github.com/NandaKishoreReddyGajjala)
 
 LinkedIn: [Nanda Kishore Reddy G](https://www.linkedin.com/in/nanda-kishore-reddy-g/)
 
